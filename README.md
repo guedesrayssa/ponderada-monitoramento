@@ -24,11 +24,7 @@
   </table>
 </div>
 
-
-
-
-
-## Descrição do Projeto
+## Descrição da Atividade
 
 Este projeto consiste em uma solução IoT para coleta e monitoramento da potência do sinal WiFi em dBm utilizando um ESP32. Os dados coletados são publicados em tempo real através do protocolo MQTT para uma dashboard na plataforma Ubidots, permitindo análise contínua da qualidade do sinal em diferentes ambientes.
 
@@ -44,6 +40,7 @@ Desenvolver um sistema capaz de:
 ## Componentes Utilizados
 
 - ESP32
+- Antena WiFi 
 - Rede WiFi (Inteli.Iot)
 - Plataforma Ubidots
 - Biblioteca UbidotsEsp32Mqtt
@@ -197,7 +194,6 @@ O vídeo completo da experiência, incluindo todos os cenários testados e o exp
 
 [Link do Vídeo no Google Drive](link_do_video_aqui)
 
-Duração: 3 a 5 minutos
 
 ## Conclusão
 
